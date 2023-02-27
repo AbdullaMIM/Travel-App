@@ -4,4 +4,4 @@ Travelers can access information on recent trips through our system and make inf
 If travellers have any inquiries, can contact us by filling out the form. <br /> <br />
 
 Technologies - React, HTML, CSS <br />
-Link - https://tourlanka.netlify.app/
+Link - https://travellankaplc.netlify.app/
